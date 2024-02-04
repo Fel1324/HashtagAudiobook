@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --gradient: linear-gradient(#3B1566, #5F4DA8);
+  --default-color: #FFFFFFC2;
+  --font: 'Lora', serif;
+}
+
+html, body{
+  background: var(--gradient);
+  color: var(--default-color);
+
+  width: 100%;
+  height: 100vh;
+
+  font-family: var(--font);
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+}
+
+img{
+  vertical-align: top;
+}
+
+button{
+  background: none;
+  color: var(--default-color);
+
+  cursor: pointer;
+}
+
+.main__chapter{
+  margin: 1.5rem 0 .75rem 0;
+}
+
+.main__control-buttons{
+  width: 75%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: .875rem auto 0 auto;
+}
+
+#previous, #next{
+  font-size: 2rem;
+}
+
+#play-pause{
+  font-size: 3rem;
+}
