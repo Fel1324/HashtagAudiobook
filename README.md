@@ -32,7 +32,7 @@ Clique [aqui](https://fel1324.github.io/HashtagAudiobook/) para acessar o projet
 <h2 id="sobre">📑 Sobre o projeto</h2>
 
 <p align="justify">
-  Hashtag Audiobook é um site que reproduz os 10 capítulos iniciais da obra-prima literária "Dom Casmurro", escrita pelo autor brasileiro Machado de Assis.
+  Hashtag Audiobook é um site que reproduz os 10 capítulos iniciais da obra literária "Dom Casmurro", escrita pelo autor brasileiro Machado de Assis.
 </p>
 
 <br>
